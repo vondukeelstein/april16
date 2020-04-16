@@ -1,4 +1,3 @@
-<script>
       const dataUrl =
         "https://gist.githubusercontent.com/vondukeelstein/32a1d7b886a27542527bb44477260ae8/raw/a84645468e86b325715caf13f01aa7ffbd0102f4/graphchart.csv";
       function renderGDPLineChart(dataUrl) {
@@ -595,4 +594,4 @@
       const gdpLineChart = renderGDPLineChart(dataUrl);
       // Destroy chart later
       // gdpLineChart.destroy();
-    </script>
+ 
